@@ -1,5 +1,8 @@
+soong_namespace {
+}
+
 subdirs = [
-    "*"
+    "*",
 ]
 
 hidl_package_root {
